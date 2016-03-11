@@ -112,5 +112,4 @@ public class Course implements Serializable {
         return "lt.vu.entities.Course[ id=" + id + " ]"; 
     }
     
-    private int test;
 }
