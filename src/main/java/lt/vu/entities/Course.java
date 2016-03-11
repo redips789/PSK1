@@ -109,7 +109,8 @@ public class Course implements Serializable {
 
     @Override
     public String toString() {
-        return "lt.vu.entities.Course[ id=" + id + " ]";
+        return "lt.vu.entities.Course[ id=" + id + " ]"; 
     }
     
+    private int test;
 }
