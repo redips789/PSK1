@@ -111,5 +111,5 @@ public class Course implements Serializable {
     public String toString() {
         return "lt.vu.entities.Course[ id=" + id + " ]"; 
     }
-    
+    //asdasdasd
 }
