@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates //
  * and open the template in the editor.
  */
-package lt.vu.entities; //
+package lt.vu.entities; 
 
 import java.io.Serializable;
 import java.util.List;
