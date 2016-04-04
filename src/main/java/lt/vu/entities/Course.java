@@ -1,6 +1,6 @@
 /*
  * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
+ * To change this template file, choose Tools | Templates //
  * and open the template in the editor.
  */
 package lt.vu.entities;
@@ -111,5 +111,5 @@ public class Course implements Serializable {
     public String toString() {
         return "lt.vu.entities.Course[ id=" + id + " ]"; 
     }
-    //asdasdasd
+
 }
